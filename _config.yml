@@ -22,7 +22,7 @@ title: Zagala Game Solutions e.U.
 email: alberto.mikulan@zagalagamesolutions.com
 description: >- # this means to ignore newlines until "baseurl:"
   Zagala Game Solutions e.U. is an Austrian-based company focused on video game software development and automation services.
-  Zagala Game Solutions e.U. is specialized in Unreal Engine and C++.
+  Zagala Game Solutions e.U. specializes in Unreal Engine and C++.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: zagalagamesolutions.com
 url: https://zagalagamesolutions.com/ # the base hostname & protocol for your site, e.g. http://example.com
