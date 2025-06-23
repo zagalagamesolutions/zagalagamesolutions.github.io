@@ -5,7 +5,7 @@ permalink: /legal/
 ---
 
 - Company: [Zagala Game Solutions e.U.](https://justizonline.gv.at/jop/web/firmenbuchabfrage/655276t_1)
-- Legal form: Sole Propietorship (Einzelunternehmer)
+- Legal form: Sole Proprietorship (Einzelunternehmer)
 - Registered Office Address: [Roseggergasse 40/4, 1160, Wien, Österreich](https://www.google.com/maps/place/Roseggergasse+40,+1160+Wien/)
 - Registered Office Place: politischer Gemeinde Wien
 - Commercial Register Number: FN 655276t
