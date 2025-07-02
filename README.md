@@ -8,13 +8,13 @@
 
 ## Our Services
 
-We provide comprehensive solutions to streamline and enhance your game development workflow:
+We provide comprehensive solutions to implement robust testing methodologies and continuous delivery practices for your game development workflow:
 
-- **Pipeline Automation** - Automated build systems, testing frameworks, and deployment solutions
-- **Development Tools** - Custom tools and plugins to accelerate your development process
-- **Unreal Engine Expertise** - Specialized knowledge in Unreal Engine development workflows
-- **Process Optimization** - Analysis and improvement of existing development pipelines
-- **CI/CD Solutions** - Continuous integration and deployment systems tailored for game development
+- **Acceptance-Test-Driven Development (ATDD)** - Implementation of collaborative testing approaches where acceptance criteria drive development, ensuring clear stakeholder communication and requirements validation
+- **Behavior-Driven Development (BDD)** - Integration of behavior specification frameworks that bridge the gap between business stakeholders and technical teams through executable specifications
+- **Test-Driven Development (TDD)** - Establishment of test-first development practices that improve code quality, reduce defects, and enable confident refactoring
+- **Continuous Delivery Implementation** - Deployment of automated release pipelines that leverage DORA metrics to achieve higher deployment frequency and reduced lead times
+- **DORA Metrics Optimization** - Application of research-backed practices that demonstrate measurable improvements in software delivery performance, including faster recovery times and lower change failure rates
 
 ## Why Choose Us
 
