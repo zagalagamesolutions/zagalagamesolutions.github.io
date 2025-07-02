@@ -1,57 +1,32 @@
-<header>
+# Zagala Game Solutions e.U.
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+![Zagala Game Solutions Logo](https://github.com/user-attachments/assets/65278c76-e2c7-4381-912b-4d99fca74e37)
 
-# GitHub Pages
+## About Us
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+**Zagala Game Solutions e.U.** is a specialized company dedicated to improving and automating the software development pipeline for video games, with a particular focus on **Unreal Engine** development.
 
-</header>
+## Our Services
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+We provide comprehensive solutions to streamline and enhance your game development workflow:
 
-## Finish
+- **Pipeline Automation** - Automated build systems, testing frameworks, and deployment solutions
+- **Development Tools** - Custom tools and plugins to accelerate your development process
+- **Unreal Engine Expertise** - Specialized knowledge in Unreal Engine development workflows
+- **Process Optimization** - Analysis and improvement of existing development pipelines
+- **CI/CD Solutions** - Continuous integration and deployment systems tailored for game development
 
-_Congratulations friend, you've completed this course!_
+## Why Choose Us
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+- **Game Industry Focus** - Deep understanding of unique challenges in game development
+- **Unreal Engine Specialization** - Extensive experience with Unreal Engine workflows and best practices
+- **Proven Solutions** - Battle-tested automation tools and processes
+- **Custom Development** - Tailored solutions that fit your specific needs and workflow
 
-Your blog is now live and has been deployed!
+## Contact
 
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
-
-### What's next?
-
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Ready to optimize your game development pipeline? Get in touch with us to discuss how we can help accelerate your development process and improve your team's productivity.
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+**Zagala Game Solutions e.U.** - Empowering game developers through intelligent automation and streamlined workflows.
