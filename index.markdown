@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Welcome
 ---
+
+**Zagala Game Solutions e.U.** is a specialized company dedicated to improving and automating the software development pipeline for video games, with a particular focus on **Unreal Engine** development.
+
+We provide comprehensive solutions to implement robust testing methodologies and continuous delivery practices for your game development workflow.
