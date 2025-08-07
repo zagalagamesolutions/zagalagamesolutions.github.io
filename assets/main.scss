@@ -57,6 +57,23 @@
   box-sizing: border-box;
 }
 
+/* Footer styles moved from inline */
+.footer-col-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.footer-col-right {
+  margin-left: auto;
+  text-align: right;
+}
+.footer-copyright {
+  margin-top: 1rem;
+  font-size: 0.9em;
+  color: #888;
+}
+
 /* Responsive Navigation: Collapse .site-nav on mobile */
 @media (max-width: 768px) {
   .site-nav {
