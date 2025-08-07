@@ -1,6 +1,4 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
+
 
 @import "minima";
 
@@ -24,6 +22,21 @@
 .footer-col .page-link,
 .footer-col .u-email {
   font-size: 1.25rem;
+}
+
+/* Header Flexbox for left/right alignment */
+.header-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-title {
+  margin-right: auto;
+}
+
+.header-nav-right {
+  margin-left: auto;
 }
 
 .responsive-container {

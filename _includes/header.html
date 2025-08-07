@@ -1,14 +1,15 @@
 <header class="site-header" role="banner">
 
-  <div class="wrapper">
+  <div class="wrapper header-flex">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
+
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       <img src="{{ '/assets/zagala_white_bg.svg' | relative_url }}" alt="Zagala Game Solutions logo" style="height: 40px; vertical-align: middle;" />
     </a>
 
     {%- if page_paths -%}
-      <nav class="site-nav">
+      <nav class="site-nav header-nav-right">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
