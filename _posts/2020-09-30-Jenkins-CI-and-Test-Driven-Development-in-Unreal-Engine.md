@@ -1,3 +1,12 @@
+---
+layout: articles
+title: Jenkins, CI and Test-Driven Development
+permalink: /articles/jenkins-ci-and-test-driven-development/
+list_title: Jenkins, CI and Test-Driven Development
+date: 2020-09-30
+excerpt: >
+  A guide to set up Jenkins, Continuous Integration and Test-Driven Development in Unreal Engine 4.
+---
 # Jenkins, CI and Test-Driven Development
 
 September 30th, 2020.

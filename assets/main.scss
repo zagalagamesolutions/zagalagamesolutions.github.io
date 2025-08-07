@@ -1,6 +1,13 @@
-
-
+// Reduce bottom margin for post titles in articles list
+.post-list h3 {
+  margin-bottom: 0.2em;
+}
 @import "minima";
+
+// Add margin to post snippet below post title
+.post-snippet {
+  margin-top: 0.2em;
+}
 
 /* Make the header section taller for a larger site-title logo */
 .site-header {
