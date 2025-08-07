@@ -56,3 +56,68 @@
   padding-right: 1rem;
   box-sizing: border-box;
 }
+
+/* Responsive Navigation: Collapse .site-nav on mobile */
+@media (max-width: 768px) {
+  .site-nav {
+    display: none;
+    position: absolute;
+    top: 64px;
+    right: 1rem;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    border-radius: 6px;
+    padding: 1rem 1.5rem;
+    z-index: 1000;
+  }
+  .site-nav.open {
+    display: block;
+  }
+  .nav-toggle {
+    display: inline-block;
+    cursor: pointer;
+    position: absolute;
+    top: 24px;
+    right: 1.5rem;
+    width: 36px;
+    height: 36px;
+    z-index: 1100;
+  }
+  .nav-toggle span,
+  .nav-toggle span:before,
+  .nav-toggle span:after {
+    display: block;
+    position: absolute;
+    width: 28px;
+    height: 4px;
+    background: #222;
+    border-radius: 2px;
+    transition: 0.3s;
+    left: 4px;
+  }
+  .nav-toggle span {
+    top: 16px;
+  }
+  .nav-toggle span:before {
+    content: '';
+    top: -10px;
+  }
+  .nav-toggle span:after {
+    content: '';
+    top: 10px;
+  }
+  /* Hide nav-toggle on desktop */
+}
+
+@media (min-width: 769px) {
+  .nav-toggle {
+    display: none;
+  }
+  .site-nav {
+    display: block !important;
+    position: static;
+    background: none;
+    box-shadow: none;
+    padding: 0;
+  }
+}
