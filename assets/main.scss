@@ -4,6 +4,28 @@
 
 @import "minima";
 
+/* Make the header section taller for a larger site-title logo */
+.site-header {
+  min-height: 80px;
+  padding-top: 20px;
+}
+
+.site-title img {
+  height: 64px !important;
+}
+
+/* Make navigation text bigger in header and footer */
+.site-nav {
+  font-size: 1.25rem;
+}
+
+.site-nav .page-link,
+.footer-heading,
+.footer-col .page-link,
+.footer-col .u-email {
+  font-size: 1.25rem;
+}
+
 .responsive-container {
   width: 100%;
   max-width: 1280px;
