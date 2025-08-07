@@ -3,9 +3,7 @@
 
   <div class="wrapper responsive-container">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
+    <div class="footer-col-wrapper" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
@@ -19,17 +17,18 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
+        <div class="github">
+          {%- include social.html -%}
+        </div>
         <div style="margin-top: 1rem; font-size: 0.9em; color: #888;">
           &copy; Copyright Zagala Game Solutions e.U.<br>
           Zagala Game Solutions Logo uses the Dongle font designed by Yanghee Ryu. Find its license <a class="u-logo-license" href="https://fonts.google.com/specimen/Dongle/license" target="_blank" rel="noopener">here</a>.
         </div>
       </div>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
+      
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col footer-col-3" style="margin-left: auto; text-align: right;">
         <p>{{- site.description | escape -}}</p>
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
