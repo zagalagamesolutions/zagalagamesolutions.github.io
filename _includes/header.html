@@ -31,36 +31,7 @@
     {%- endif -%}
   </div>
 </header>
-<style>
-  @media (max-width: 768px) {
-    #go-to-top-btn {
-      display: block;
-      position: fixed;
-      bottom: 24px;
-      right: 24px;
-      z-index: 1000;
-      background: #222;
-      color: #fff;
-      border: none;
-      border-radius: 50%;
-      width: 48px;
-      height: 48px;
-      font-size: 24px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-      cursor: pointer;
-      opacity: 0.8;
-      transition: opacity 0.2s;
-    }
-    #go-to-top-btn.hide {
-      display: none;
-    }
-  }
-  @media (min-width: 769px) {
-    #go-to-top-btn {
-      display: none;
-    }
-  }
-</style>
+<!-- Styles for go-to-top button moved to minima.scss -->
 
 <button id="go-to-top-btn" class="hide" title="Go to top" aria-label="Go to top">↑</button>
 <script>
