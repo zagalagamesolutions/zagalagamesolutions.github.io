@@ -1307,9 +1307,9 @@ The following is a list of resources that helped me while doing this article/pro
 
 * [Automation Technical Guide - Epic Games](https://docs.unrealengine.com/en-US/Programming/Automation/TechnicalGuide/index.html)
 
-* [How Rare Tests Sea of Thieves to Stop Bugs Reaching Players | AI and Games - YouTube](https://www.youtube.com/watch?v=Bu4YV4be6IE)
+* [How Rare Tests Sea of Thieves to Stop Bugs Reaching Players _ AI and Games - YouTube](https://www.youtube.com/watch?v=Bu4YV4be6IE)
 
-* [Automated Testing at Scale in Sea of Thieves | Unreal Fest Europe 2019 | Unreal Engine - YouTube - Jessica Baker](https://www.youtube.com/watch?v=KmaGxprTUfI)
+* [Automated Testing at Scale in Sea of Thieves _ Unreal Fest Europe 2019 _ Unreal Engine - YouTube - Jessica Baker](https://www.youtube.com/watch?v=KmaGxprTUfI)
 
 * [Tech Blog: Tests and Testability - Rare - Jessica Baker](https://www.rare.co.uk/news/tech-blog-testability)
 
