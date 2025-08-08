@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: post
 title: Jenkins, CI and Test-Driven Development
 permalink: /articles/jenkins-ci-and-test-driven-development/
 list_title: Jenkins, CI and Test-Driven Development

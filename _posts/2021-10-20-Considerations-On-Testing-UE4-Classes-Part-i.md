@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: post
 title: Considerations On Testing UE4 Classes Part I - Worlds, Ticks and Forces
 permalink: /articles/considerations-on-testing-ue4-classes-part-i/
 list_title: Considerations On Testing UE4 Classes Part I - Worlds, Ticks and Forces

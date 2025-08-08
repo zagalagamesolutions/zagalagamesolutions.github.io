@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: post
 title: Considerations On Testing UE4 Classes Part II - Editor Clicks and Gamepad/Keyboard Button Presses
 permalink: /articles/considerations-on-testing-ue4-classes-part-ii/
 list_title: Considerations On Testing UE4 Classes Part II - Editor Clicks and Gamepad/Keyboard Button Presses

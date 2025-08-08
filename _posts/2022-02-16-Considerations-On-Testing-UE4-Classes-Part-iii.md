@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: post
 title: Considerations On Testing UE4 Classes Part III - Replication
 permalink: /articles/considerations-on-testing-ue4-classes-part-iii/
 list_title: Considerations On Testing UE4 Classes Part III - Replication
