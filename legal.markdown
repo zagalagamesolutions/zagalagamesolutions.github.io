@@ -13,6 +13,7 @@ permalink: /legal/
 - GISA Zahl (Austrian Commercial Information System Number): 38347368
 - Name: Alberto Nicolas Mikulan
 - EU VAT/Uid: ATU82026004 (Check EU VAT number [here](https://europa.eu/youreurope/business/taxation/vat/check-vat-number-vies/index_en.htm).)
+- Austrian Tax Number: 06 404/3995
 
 
 
