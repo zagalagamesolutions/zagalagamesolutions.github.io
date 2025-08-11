@@ -3,13 +3,13 @@ layout: post
 title: Considerations On Testing UE4 Classes Part III - Replication
 permalink: /articles/considerations-on-testing-ue4-classes-part-iii/
 list_title: Considerations On Testing UE4 Classes Part III - Replication
-date: 2022-02-16
+date: 2022-03-04
 excerpt: >
   A guide to test replication in Unreal Engine 4 using networked Play In Editor (PIE) sessions.
 ---
 # Considerations On Testing UE4 Classes Part III: Replication
 
-February 16th, 2022.
+March 4th, 2022.
 
 This is a series of consideration articles on testing C++ classes with UE4:
 

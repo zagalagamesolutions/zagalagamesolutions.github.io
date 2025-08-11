@@ -3,13 +3,13 @@ layout: post
 title: Considerations On Testing UE4 Classes Part I - Worlds, Ticks and Forces
 permalink: /articles/considerations-on-testing-ue4-classes-part-i/
 list_title: Considerations On Testing UE4 Classes Part I - Worlds, Ticks and Forces
-date: 2021-10-20
+date: 2021-07-10
 excerpt: >
   A guide to test C++ classes in Unreal Engine 4, focusing on worlds, ticks, and forces.
 ---
 # Considerations On Testing UE4 Classes Part I: Worlds, Ticks and Forces
 
-October 20th, 2021.
+July 10th, 2021.
 
 This is a series of consideration articles on testing C++ classes with UE4:
 

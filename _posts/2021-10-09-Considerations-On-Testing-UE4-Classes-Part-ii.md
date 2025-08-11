@@ -3,13 +3,13 @@ layout: post
 title: Considerations On Testing UE4 Classes Part II - Editor Clicks and Gamepad/Keyboard Button Presses
 permalink: /articles/considerations-on-testing-ue4-classes-part-ii/
 list_title: Considerations On Testing UE4 Classes Part II - Editor Clicks and Gamepad/Keyboard Button Presses
-date: 2021-11-24
+date: 2021-10-09
 excerpt: >
   A guide to test editor clicks and gamepad/keyboard button presses in Unreal Engine 4.
 ---
 # Considerations On Testing UE4 Classes Part II: Editor Clicks and Gamepad/Keyboard Button Presses
 
-November 24th, 2021.
+October 9th, 2021.
 
 This is a series of consideration articles on testing C++ classes with UE4:
 
