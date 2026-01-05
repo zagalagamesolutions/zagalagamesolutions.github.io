@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-**Zagala Game Solutions e.U.** was founded in 2025 by Alberto Mikulan.
+**Zagala Game Solutions** was founded in 2025 by Alberto Mikulan.
 
 Alberto graduated with an Engineering degree in Informatics from Universidad Católica de Argentina in 2021 and has been working in the video game industry since that same year.
 

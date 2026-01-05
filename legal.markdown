@@ -4,16 +4,13 @@ title: Legal
 permalink: /legal/
 ---
 
-- Company: [Zagala Game Solutions e.U.](https://justizonline.gv.at/jop/web/firmenbuchabfrage/655276t_1)
-- Legal form: Sole Proprietorship (Einzelunternehmer)
-- Registered Office Address: [Roseggergasse 40/4, 1160, Wien, Österreich](https://www.google.com/maps/place/Roseggergasse+40,+1160+Wien/)
-- Registered Office Place: politischer Gemeinde Wien
-- Commercial Register Number: FN 655276t
-- Commercial Register Court: [Handelsgericht Wien](https://www.justiz.gv.at/hg-wien/handelsgericht-wien.26d.de.html)
-- GISA Zahl (Austrian Commercial Information System Number): 38347368
+- Company: Zagala Game Solutions
+- Legal form: Sole Proprietorship
+- Registered Office Address: [Calle Jaume I, 10, 3A, Canet D'En Berenguer, Valencia, Spain](https://maps.app.goo.gl/omsLrpVUXDLyp4wb9)
+- Registered Office Place: [Administración de Hacienda de Sagunto](https://maps.app.goo.gl/6Fh3zFoYCQiRL3Vt8)
 - Name: Alberto Nicolas Mikulan
-- EU VAT/Uid: ATU82026004 (Check EU VAT number [here](https://europa.eu/youreurope/business/taxation/vat/check-vat-number-vies/index_en.htm).)
-- Austrian Tax Number: 06 404/3995
+- EU VAT/Uid: ESZ3977288H (Check EU VAT number [here](https://europa.eu/youreurope/business/taxation/vat/check-vat-number-vies/index_en.htm).)
+- Spain Tax Number: Z3977288H
 
 
 
