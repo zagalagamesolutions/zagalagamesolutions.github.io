@@ -1,10 +1,10 @@
-# Zagala Game Solutions e.U.
+# Zagala Game Solutions
 
-![Zagala Game Solutions Logo](https://github.com/user-attachments/assets/65278c76-e2c7-4381-912b-4d99fca74e37)
+![Zagala Game Solutions Logo](https://avatars.githubusercontent.com/u/217811938?s=400&u=bf82ca1bfc06ff97e9294e74a074fec89eadad18&v=4)
 
 ## About Us
 
-**Zagala Game Solutions e.U.** is a specialized company dedicated to improving and automating the software development pipeline for video games, with a particular focus on **Unreal Engine** development.
+**Zagala Game Solutions** is a specialized company dedicated to improving and automating the software development pipeline for video games, with a particular focus on **Unreal Engine** development.
 
 ## Our Services
 
@@ -49,16 +49,13 @@ Ready to optimize your game development pipeline? Get in touch with us to discus
 
 ---
 
-**Zagala Game Solutions e.U.** - Empowering game developers through intelligent automation and streamlined workflows.
+**Zagala Game Solutions** - Empowering game developers through intelligent automation and streamlined workflows.
 
 ## Legal Information
 
-- **Company**: [Zagala Game Solutions e.U.](https://justizonline.gv.at/jop/web/firmenbuchabfrage/655276t_1)
-- **Legal Form**: Sole Proprietorship (Einzelunternehmer)
-- **Registered Office Address**: [Roseggergasse 40/4, 1160, Wien, Österreich](https://www.google.com/maps/place/Roseggergasse+40,+1160+Wien/)
-- **Registered Office Place**: politischer Gemeinde Wien
-- **Commercial Register Number**: FN 655276t
-- **Commercial Register Court**: [Handelsgericht Wien](https://www.justiz.gv.at/hg-wien/handelsgericht-wien.26d.de.html)
-- **GISA Zahl** (Austrian Commercial Information System Number): 38347368
+- **Company**: Zagala Game Solutions
+- **Legal Form**: Sole Proprietorship
+- **Registered Office Address**: [Calle Jaume I, 10, 3A, Canet D'En Berenguer, Valencia, Spain](https://maps.app.goo.gl/omsLrpVUXDLyp4wb9)
+- **Registered Office Place**: [Administración de Hacienda de Sagunto](https://maps.app.goo.gl/6Fh3zFoYCQiRL3Vt8)
 - **Name**: Alberto Nicolas Mikulan
-- **EU VAT/Uid**: ATU82026004 (Check EU VAT number [here](https://europa.eu/youreurope/business/taxation/vat/check-vat-number-vies/index_en.htm))
+- **EU VAT/Uid**: ESZ3977288H (Check EU VAT number [here](https://europa.eu/youreurope/business/taxation/vat/check-vat-number-vies/index_en.htm))
