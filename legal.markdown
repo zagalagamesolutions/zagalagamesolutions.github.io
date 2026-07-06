@@ -9,10 +9,8 @@ permalink: /legal/
 - Registered Office Address: [Carrer del Túria, 1, puerta 28, Canet D'En Berenguer, Valencia, Spain](https://maps.app.goo.gl/D1VpxUas3qkt3oVH8)
 - Registered Office Place: [Administración de Hacienda de Sagunto](https://maps.app.goo.gl/6Fh3zFoYCQiRL3Vt8)
 - Name: Alberto Nicolas Mikulan
-- EU VAT/Uid: ESZ3977288H (Check EU VAT number [here](https://europa.eu/youreurope/business/taxation/vat/check-vat-number-vies/index_en.htm).)
+- EU VAT/Uid: ESZ3977288H [Check EU VAT number here](https://europa.eu/youreurope/business/taxation/vat/check-vat-number-vies/index_en.htm).
 - Spain Tax Number: Z3977288H
-
-
 
 <!--
 
